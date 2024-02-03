@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carpimtablosu", "carpimtablosu\carpimtablosu.csproj", "{9BC0195C-1A68-4858-9660-363C51B31D74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login uygulaması", "login uygulaması\login uygulaması.csproj", "{15EC1CB7-37F6-41A7-8821-364DD226988D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC0195C-1A68-4858-9660-363C51B31D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC0195C-1A68-4858-9660-363C51B31D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC0195C-1A68-4858-9660-363C51B31D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC0195C-1A68-4858-9660-363C51B31D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15EC1CB7-37F6-41A7-8821-364DD226988D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15EC1CB7-37F6-41A7-8821-364DD226988D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15EC1CB7-37F6-41A7-8821-364DD226988D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15EC1CB7-37F6-41A7-8821-364DD226988D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E878659C-5973-4536-B4A2-84CCA9C0837B}
+	EndGlobalSection
+EndGlobal
